@@ -4,6 +4,5 @@ node_modules/
 dist/
 .env
 logs/
-coverage/
 build/
 .DS_Store
