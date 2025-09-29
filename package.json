@@ -1,7 +1,7 @@
 {
   "name": "versionskontrolle-verbessern",
   "version": "1.0.0",
-  "description": "Ein Projekt zur Optimierung der Versionskontrolle für Softwareentwickler.",
+  "description": "Optimierung der Versionskontrolle für Entwickler.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
