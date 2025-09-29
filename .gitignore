@@ -6,3 +6,4 @@ dist/
 logs/
 coverage/
 build/
+.DS_Store
